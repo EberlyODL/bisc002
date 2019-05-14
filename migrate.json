@@ -1,0 +1,20 @@
+{
+  "regex": [
+    {
+      "pattern": "src=\"\/bisc002t\/",
+      "replacement": "src=\"http:\/\/courses.ed.science.psu.edu\/bisc002t\/"
+    },
+    {
+      "pattern": "href=\"\/bisc002t\/",
+      "replacement": "href=\"http:\/\/courses.ed.science.psu.edu\/bisc002t\/"
+    },
+    {
+      "pattern": "src=\"\/bisc002\/",
+      "replacement": "src=\"http:\/\/courses.ed.science.psu.edu\/bisc002\/"
+    },
+    {
+      "pattern": "href=\"\/bisc002\/",
+      "replacement": "href=\"http:\/\/courses.ed.science.psu.edu\/bisc002\/"
+    }
+  ]
+}
