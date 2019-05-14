@@ -1,7 +1,7 @@
 {
-    "name": "bisc002",
-    "short_name": "bisc002",
-    "description": "",
+    "name": "HAXcms",
+    "short_name": "haxcms",
+    "description": "Microsite manager for your universe!",
     "icons": [
         {
             "src": "assets\/android-icon-36x36.png",
@@ -46,9 +46,8 @@
             "density": "4.0"
         }
     ],
-    "scope": "/bisc002/",
-    "start_url": "/bisc002/",
+    "start_url": "/",
     "display": "standalone",
-    "theme_color": "#aeff00",
-    "background_color": "#aeff00"
+    "theme_color": "#3f51b5",
+    "background_color": "#3f51b5"
 }
