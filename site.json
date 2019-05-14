@@ -8,15 +8,15 @@
         "siteName": "bisc002",
         "domain": null,
         "created": 1557851335,
-        "updated": 1557851335,
+        "updated": 1557851349,
         "theme": {
-            "element": "simple-blog",
-            "path": "@lrnwebcomponents\/simple-blog\/simple-blog.js",
-            "name": "Simple blog"
+            "element": "learn-two-theme",
+            "path": "@lrnwebcomponents\/learn-two-theme\/learn-two-theme.js",
+            "name": "Learn"
         },
         "image": "assets\\\/banner.jpg",
         "hexCode": "#aeff00",
-        "cssVariable": "--simple-colors-default-theme-light-blue-7",
+        "cssVariable": "",
         "publishing": {
             "git": {
                 "vendor": "github",
@@ -74,6 +74,5 @@
                 "updated": 1557851335
             }
         }
-    ],
-    "location": "\/_sites\/bisc002\/index.html"
+    ]
 }
